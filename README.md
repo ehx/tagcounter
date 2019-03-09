@@ -22,6 +22,10 @@ by defaults:
 * target = http://ordergroove.com/company
 * number_of_tags = 5
 
+example:
+
+![script finish](https://raw.githubusercontent.com/ehx/tagcounter/master/screen.png)
+
 
 #### Running the tests
 
