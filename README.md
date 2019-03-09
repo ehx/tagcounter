@@ -7,6 +7,11 @@ the top 5 most frequently used tags, and their respective counts about any page.
  python 2.7
 ```
 
+#### Setup
+```
+clone this repo : https://github.com/ehx/tagcounter.git
+```
+
 #### How to use?
 ```
  python tagcounter.py [target] [number_of_tags]
