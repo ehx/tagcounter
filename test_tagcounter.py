@@ -4,7 +4,7 @@ from tagcounter import TagCounter
 
 class TestTagCounter(unittest.TestCase):
     def setUp(self):
-        self.tag = TagCounter()
+        self.tag = TagCounter(5)
 
     def test_1_tag(self):
         data = "<html></html>"
@@ -50,3 +50,4 @@ class TestTagCounter(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
